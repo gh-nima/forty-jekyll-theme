@@ -2,12 +2,12 @@
 title: Ai
 subtitle: by Nona Helmi
 email: youremailaddress@gmail.com
-description:this is the test website.
+description: this is the test website.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
+city: Mashhad
 state: TN
 zip_code: 55555
 country: United States of America
