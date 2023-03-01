@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Formal Languages and Automata
+description: Lectures
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
