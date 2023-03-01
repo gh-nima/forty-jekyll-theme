@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formal Languages and Automata
+title: Formal Languages and Automata Theory 
 description: Lectures
 image: assets/images/pic11.jpg
 nav-menu: true
